@@ -1,5 +1,7 @@
 # gatsby-starter-devresume
 
+![Test Status](https://github.com/cooljeffrey/gatsby-starter-devresume/workflows/test/badge.svg)
+
 This starter ships the devresume Designed by <a class="theme-link" href="http://themes.3rdwavemedia.com" target="_blank">Xiaoying Riley</a> for developers.
 
 ## 🚀 Quick start
