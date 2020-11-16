@@ -1,0 +1,59 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Skills renders correctly 1`] = `
+<section
+  className="skills-section py-3"
+>
+  <h3
+    className="text-uppercase resume-section-heading mb-4"
+  >
+    Skills
+  </h3>
+  <div
+    className="item"
+  >
+    <h4
+      className="item-title"
+    >
+      Technical
+    </h4>
+    <ul
+      className="list-unstyled resume-skills-list"
+    >
+      <li
+        className="mb-2"
+      >
+        skill 1
+      </li>
+      <li
+        className="mb-2"
+      >
+        skill 2
+      </li>
+    </ul>
+  </div>
+  <div
+    className="item"
+  >
+    <h4
+      className="item-title"
+    >
+      Professional
+    </h4>
+    <ul
+      className="list-unstyled resume-skills-list"
+    >
+      <li
+        className="mb-2"
+      >
+        pro 1
+      </li>
+      <li
+        className="mb-2"
+      >
+        pro 2
+      </li>
+    </ul>
+  </div>
+</section>
+`;

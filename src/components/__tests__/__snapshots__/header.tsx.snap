@@ -1,0 +1,83 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header renders correctly 1`] = `
+<div
+  className="resume-header"
+>
+  <div
+    className="row align-items-center"
+  >
+    <div
+      className="resume-title col-12 col-md-6 col-lg-8 col-xl-9"
+    >
+      <h2
+        className="resume-name mb-0 text-uppercase"
+      >
+        name
+      </h2>
+      <div
+        className="resume-tagline mb-3 mb-md-0"
+      >
+        test
+      </div>
+    </div>
+    <div
+      className="resume-contact col-12 col-md-6 col-lg-4 col-xl-3"
+    >
+      <ul
+        className="list-unstyled mb-0"
+      >
+        <li
+          className="mb-2"
+        >
+          <i
+            className="fas fa-phone-square fa-fw fa-lg mr-2 "
+          />
+          <a
+            className="resume-link"
+            href="tel:123"
+          >
+            123
+          </a>
+        </li>
+        <li
+          className="mb-2"
+        >
+          <i
+            className="fas fa-envelope-square fa-fw fa-lg mr-2"
+          />
+          <a
+            className="resume-link"
+            href="mailto:test@test.dev"
+          >
+            test@test.dev
+          </a>
+        </li>
+        <li
+          className="mb-2"
+        >
+          <i
+            className="fas fa-globe fa-fw fa-lg mr-2"
+          />
+          <a
+            className="resume-link"
+            href="http://https://test.dev"
+            rel="noreferrer"
+            target="_blank"
+          >
+            https://test.dev
+          </a>
+        </li>
+        <li
+          className="mb-0"
+        >
+          <i
+            className="fas fa-map-marker-alt fa-fw fa-lg mr-2"
+          />
+          My Location
+        </li>
+      </ul>
+    </div>
+  </div>
+</div>
+`;

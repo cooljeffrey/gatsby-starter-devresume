@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Awards renders correctly 1`] = `
+<section
+  className="education-section py-3"
+>
+  <h3
+    className="text-uppercase resume-section-heading mb-4"
+  >
+    Awards
+  </h3>
+  <ul
+    className="list-unstyled resume-awards-list"
+  >
+    <li
+      className="mb-3"
+    >
+      <div
+        className="font-weight-bold"
+      >
+        Award
+      </div>
+      <div
+        className="text-muted"
+      >
+        Org
+      </div>
+    </li>
+  </ul>
+</section>
+`;

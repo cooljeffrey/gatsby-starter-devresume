@@ -1,0 +1,159 @@
+# resume
+name: Simon Doe
+default: true
+position: Senior Software Engineer
+avatar: resume-profile.png # this is a relative path to static/assets/images
+contact:
+  phone: 0123 4567 890
+  email: simon.doe@yourwebsite.com
+  website: www.yourwebsite.com
+  location: New York
+links:
+  github: username
+  linkedin: username
+  twitter: twittername
+summary: >-
+  Summarise your career here. <a class="theme-link" 
+  href="https://themes.3rdwavemedia.com/resources/sketch-template/resume-sketch-sketch-resume-template-for-software-developers/" 
+  target="_blank" rel="noreferrer">You can make a PDF version of your resume using our free Sketch template here</a>.
+   Donec quam felis, ultricies nec, pellentesque eu. Lorem ipsum dolor sit amet, 
+  consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis 
+  natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam 
+  felis, ultricies nec, pellentesque eu, pretium quis, sem.  Maecenas nec odio et ante 
+  tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. 
+  Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet 
+  nibh.
+skills:
+  technical:
+    - JavaScript/Angular/React/Vue
+    - Python/Ruby/PHP
+    - Node.js/ASP.NET
+    - PostgreSQL/MySQL
+    - Object-oriented design
+    - Design and implement database structures
+    - Lead and deliver complex software systems
+  professional:
+    - Effective communication
+    - Team player
+    - Strong problem solver
+    - Good time management
+educations:
+  - degree: MSc in Computer Science
+    institution: University College London
+    dateStart: "2010"
+    dateEnd: "2011"
+  - degree: BSc Maths and Physics
+    institution: UImperial College London
+    dateStart: "2007"
+    dateEnd: "2010"
+awards:
+  - name: Award Lorem Ipsum
+    organization: Microsoft lorem ipsum (2019)
+  - name: Award Donec Sodales
+    organization: Oracle Aenean (2017)
+languages:
+  - name: English
+    level: Native
+  - name: Spanish
+    level: Professional
+interests:
+  - Climbing
+  - Snowboarding
+  - Photography
+  - Travelling
+workExperiences:
+  - position: Senior Software Engineer
+    employer: Google
+    location: New York
+    dateStart: "2019"
+    dateEnd: "Present"
+    summary: |
+      Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Donec pede justo, fringilla vel. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis.
+        * Lorem ipsum dolor sit amet, consectetuer.
+        * Aenean commodo ligula eget dolor.
+        * Etiam ultricies nisi vel augue.
+    keyResponsibilities:
+    keyProjects:
+    keyAchievements:
+    technologyStacks:
+  - position: Lead Software Developer
+    employer: Apple
+    location: New York
+    dateStart: "2016"
+    dateEnd: "2019"
+    summary: |
+      Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Donec pede justo, fringilla vel.
+        * Lorem ipsum dolor sit amet, consectetuer.
+        * Aenean commodo ligula eget dolor.
+    keyResponsibilities:
+    keyProjects:
+    keyAchievements:
+    technologyStacks:
+  - position: Senior Software Developer
+    employer: Dropbox
+    location: New York
+    dateStart: "2014"
+    dateEnd: "2016"
+    summary: |
+      Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+    keyResponsibilities:
+    keyProjects:
+    keyAchievements:
+    technologyStacks:
+  - position: Senior Developer
+    employer: Uber
+    location: New York
+    dateStart: "2013"
+    dateEnd: "2014"
+    summary: >-
+      Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
+      eget dolor. Aenean massa. Cum sociis natoque penatibus.
+    keyResponsibilities:
+    keyProjects:
+    keyAchievements:
+    technologyStacks:
+  - position: Backend Developer
+    employer: Amazon
+    location: New York
+    dateStart: "2014"
+    dateEnd: "2016"
+    summary: >-
+      Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo 
+      ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, 
+      nascetur ridiculus mus.
+    keyResponsibilities:
+    keyProjects:
+    keyAchievements:
+    technologyStacks:
+  - position: Frontend Developer
+    employer: Startup
+    location: New York
+    dateStart: "2013"
+    dateEnd: "2014"
+    summary: >-
+      Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo 
+      ligula eget dolor. Aenean massa. Cum sociis natoque penatibus.
+    keyResponsibilities:
+    keyProjects:
+    keyAchievements:
+    technologyStacks:
+projects:
+  - title: Project Lorem Ipsum
+    meta: Open Source
+    summary: >-
+      You can use this section for your side projects. You can provide a project link here as well. 
+      Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. 
+      Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur 
+      ridiculus mus.
+  - title: Project Sed Fringilla
+    meta: Open Source
+    summary: >-
+      You can use this section for your side projects. Cras dapibus. Vivamus elementum semper nisi. 
+      Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend 
+      ac, enim.
+  - title: Project Praesent
+    meta: Open Source
+    summary: >-
+      You can use this section for your side projects. Cras dapibus. Vivamus elementum semper nisi. 
+      Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend 
+      ac, enim.

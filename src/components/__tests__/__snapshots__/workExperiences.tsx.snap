@@ -1,0 +1,73 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`WorkExperiences renders correctly 1`] = `
+<section
+  className="work-section py-3"
+>
+  <h3
+    className="text-uppercase resume-section-heading mb-4"
+  >
+    Work Experiences
+  </h3>
+  <div
+    className="item mb-3"
+  >
+    <div
+      className="item-heading row align-items-center mb-2"
+    >
+      <h4
+        className="item-title col-12 col-md-6 col-lg-8 mb-2 mb-md-0"
+      >
+        Tester
+      </h4>
+      <div
+        className="item-meta col-12 col-md-6 col-lg-4 text-muted text-left text-md-right"
+      >
+        Employer 1
+         | 
+        Jan 2019
+         - 
+        Aug 2020
+      </div>
+    </div>
+    <div
+      className="item-content"
+      dangerouslySetInnerHTML={
+        Object {
+          "__html": "<p>all the summary</p>",
+        }
+      }
+    />
+  </div>
+  <div
+    className="item mb-3"
+  >
+    <div
+      className="item-heading row align-items-center mb-2"
+    >
+      <h4
+        className="item-title col-12 col-md-6 col-lg-8 mb-2 mb-md-0"
+      >
+        Developer
+      </h4>
+      <div
+        className="item-meta col-12 col-md-6 col-lg-4 text-muted text-left text-md-right"
+      >
+        Employer 2
+         | 
+        Jan 2000
+         - 
+        Dec 2018
+      </div>
+    </div>
+    <div
+      className="item-content"
+      dangerouslySetInnerHTML={
+        Object {
+          "__html": "<p>all the summary</p>",
+        }
+      }
+    />
+  </div>
+</section>
+`;

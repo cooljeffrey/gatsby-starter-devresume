@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Bio renders correctly 1`] = `
+<div
+  className="resume-intro py-3"
+>
+  <div
+    className="media flex-column flex-md-row align-items-center"
+  >
+    <img
+      alt="test"
+      className="resume-profile-image mb-3 mb-md-0 mr-md-5 ml-md-0 rounded mx-auto"
+      src="/static/randomstring/simon.png"
+      title="test"
+    />
+    <div
+      className="media-body text-left"
+    >
+      <div
+        className="mb-0"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "long summary ....",
+          }
+        }
+      />
+    </div>
+  </div>
+</div>
+`;

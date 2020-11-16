@@ -1,0 +1,63 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Projects renders correctly 1`] = `
+<section
+  className="project-section py-3"
+>
+  <h3
+    className="text-uppercase resume-section-heading mb-4"
+  >
+    Projects
+  </h3>
+  <div
+    className="item mb-3"
+  >
+    <div
+      className="item-heading row align-items-center mb-2"
+    >
+      <h4
+        className="item-title col-12 col-md-6 col-lg-8 mb-2 mb-md-0"
+      >
+        project title
+      </h4>
+      <div
+        className="item-meta col-12 col-md-6 col-lg-4 text-muted text-left text-md-right"
+      >
+        Opensource
+      </div>
+    </div>
+    <div
+      className="item-content"
+    >
+      <p>
+        long project summary
+      </p>
+    </div>
+  </div>
+  <div
+    className="item mb-3"
+  >
+    <div
+      className="item-heading row align-items-center mb-2"
+    >
+      <h4
+        className="item-title col-12 col-md-6 col-lg-8 mb-2 mb-md-0"
+      >
+        project title 2
+      </h4>
+      <div
+        className="item-meta col-12 col-md-6 col-lg-4 text-muted text-left text-md-right"
+      >
+        Opensource
+      </div>
+    </div>
+    <div
+      className="item-content"
+    >
+      <p>
+        long project summary
+      </p>
+    </div>
+  </div>
+</section>
+`;
